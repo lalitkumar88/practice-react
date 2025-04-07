@@ -11,6 +11,10 @@
 .con-wrap {
   padding-bottom: 2.5rem; /* Footer height */
 }
+
+.con-wrap p{
+  font-size: x-large;
+}
 header {
   background-color: gray;
   padding: 20px;
